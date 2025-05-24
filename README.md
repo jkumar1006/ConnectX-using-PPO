@@ -38,12 +38,12 @@ The PPO model consists of:
      Minimizes mean squared error between predicted and actual returns.
 ---
 ## 🔧 Key Hyperparameters
-    - Parameter	Value
-    - Learning Rate	1e-4
-    - Discount Factor γ	0.99
-    - Clipping ε	0.2
-    - Batch Size	64
-    - Epochs per Update	4
+      **Parameter** 	       **Value**
+    - Learning Rate	          1e-4
+    - Discount Factor γ	      0.99
+    - Clipping ε	             0.2
+    - Batch Size	             64
+    - Epochs per Update	      4
 ---
 ## 📊 Evaluation Metrics
    1. **Cumulative Reward:** Learning curve across episodes.
