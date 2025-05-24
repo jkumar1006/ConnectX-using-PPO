@@ -57,6 +57,7 @@ The PPO agent showed consistent learning performance and increasing win rates.
 View the full visualization and training progress:
 
 Open FinalProject_ppo.ipynb in your browser.
+https://github.com/jkumar1006/ConnectX-using-PPO.git
 
 ---
 ## 📝 Conclusion
